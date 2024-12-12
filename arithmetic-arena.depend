@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732016585 source:d:\praktikum\m5\tugasm5\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+
